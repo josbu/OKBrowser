@@ -39,7 +39,13 @@ HubBrowser 是基于 [Chromium](https://dev.chromium.org) 的指纹浏览器，�
 1. 单击已创建环境中的“启动”按钮，以打开新创建的浏览器环境。
 2. 新启动的浏览器即为新的指纹环境。
 ![image](https://github.com/user-attachments/assets/f84a1e6e-7bdb-4994-8581-54b95375d670)
+# 部分其他功能
+1. 批量创建、启动、删除、关闭功能。
+![image](https://github.com/user-attachments/assets/71b328ca-8fd5-49a0-9c5a-332b5acb9061)
 
+2. xxxxxxxxxxxxxxxxxxxx
+   
+3. xxxxxxxxxxxxxxxxxxxx
 # 亲测可用的指纹修改
 可以使用 [fingerprintjs](https://fingerprintjs.github.io/fingerprintjs/) 和 [browserleaks](https://browserleaks.com/) 来测试指纹修改效果。
 
