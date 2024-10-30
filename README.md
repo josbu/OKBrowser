@@ -46,9 +46,12 @@ HubBrowser 是基于 [Chromium](https://dev.chromium.org) 的指纹浏览器，�
 1. 批量创建、启动、删除、关闭功能。
 ![image](https://github.com/user-attachments/assets/71b328ca-8fd5-49a0-9c5a-332b5acb9061)
 
-2. xxxxxxxxxxxxxxxxxxxx
-   
-3. xxxxxxxxxxxxxxxxxxxx
+2. 浏览器窗口键盘鼠标同步器
+   ![image](https://github.com/user-attachments/assets/7a4ec170-3b37-4776-94e1-fa01b87291b1)
+
+3. 多线路切换海内海外节点
+   ![image](https://github.com/user-attachments/assets/01474868-8929-430f-8a6e-bcf2279e4fa3)
+
 # 亲测可用的指纹修改
 可以使用 [fingerprintjs](https://fingerprintjs.github.io/fingerprintjs/) 和 [browserleaks](https://browserleaks.com/) 来测试指纹修改效果。
 
