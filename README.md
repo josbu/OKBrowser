@@ -106,7 +106,8 @@ HubBrowser 还不完善。如果您对 HubBrowser 感兴趣，可以通过以下
 -  ![image](https://github.com/user-attachments/assets/895d6ab1-ac36-4490-a7a1-5b209fd81285)
 
 - 微信群：
-- <img width="356" alt="31d2e3a7969e00c4b6385378048ad84" src="https://github.com/user-attachments/assets/6cf46cf7-1dbf-48ab-bf7b-a381aa4dbc85">
+- ![微信图片_20241107004825](https://github.com/user-attachments/assets/048b6ff6-e973-4e24-bf49-b9af31fcff34)
+
 
 
 
