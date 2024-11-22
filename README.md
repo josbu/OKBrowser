@@ -107,7 +107,7 @@ OKBrowser 还不完善。如果您对 OKBrowser 感兴趣，可以通过以下�
 
 # 联系我们
 - email:  [xiao515217964@gmail.com]
-- 官网:  [https://OKBrowser.com](https://OKBrow.com)
+- 官网:  [https://OKBrow.com](https://OKBrow.com)
 - QQ群: 
 -  ![image](https://github.com/user-attachments/assets/895d6ab1-ac36-4490-a7a1-5b209fd81285)
 
