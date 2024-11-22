@@ -31,26 +31,32 @@ OKBrowser 是基于 [Chromium](https://dev.chromium.org) 的指纹浏览器，�
 
 ## 创建新的浏览器环境
 1. 打开 OKBrowser 并选择“创建浏览器”。
-![image](https://github.com/user-attachments/assets/8e4b9d28-ade6-46b6-b505-a431e7b20ab9)
+![image](https://github.com/user-attachments/assets/45f9ee87-ddfb-40ef-bea5-c72d3f18e363)
+
 
 
 2. 修改弹出对话框中的配置信息或使用默认设置。
-![image](https://github.com/user-attachments/assets/68596cb3-39bf-4ba0-ae9f-4c4eb5e6784c)
+
+![image](https://github.com/user-attachments/assets/145e84cd-367f-469f-90f2-edd9ea6bcf51)
 
 
 ## 启动浏览器环境
 1. 单击已创建环境中的“启动”按钮，以打开新创建的浏览器环境。
 2. 新启动的浏览器即为新的指纹环境。
-![image](https://github.com/user-attachments/assets/f84a1e6e-7bdb-4994-8581-54b95375d670)
+![image](https://github.com/user-attachments/assets/00e2843d-9e16-44c4-8a06-6dc06222570f)
+
 # 部分其他功能
 1. 批量创建、启动、删除、关闭功能。
-![image](https://github.com/user-attachments/assets/71b328ca-8fd5-49a0-9c5a-332b5acb9061)
+![image](https://github.com/user-attachments/assets/bad4b4a2-dfaf-45fb-9b37-38025a6dea75)
+
 
 2. 浏览器窗口键盘鼠标同步器
-   ![image](https://github.com/user-attachments/assets/7a4ec170-3b37-4776-94e1-fa01b87291b1)
+![image](https://github.com/user-attachments/assets/c70db094-9d4c-4e4a-b5ed-fc2d63071a46)
+
 
 3. 多线路切换海内海外节点
-   ![image](https://github.com/user-attachments/assets/01474868-8929-430f-8a6e-bcf2279e4fa3)
+  ![image](https://github.com/user-attachments/assets/bf4bb5d5-4d48-4c5a-bec6-b14550e1ccc3)
+
 
 # 亲测可用的指纹修改
 可以使用 [fingerprintjs](https://fingerprintjs.github.io/fingerprintjs/) 和 [browserleaks](https://browserleaks.com/) 来测试指纹修改效果。
