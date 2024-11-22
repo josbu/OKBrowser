@@ -1,13 +1,13 @@
 <p align="center">
- <img src="/logo-new.png">
+ <img src="/logo-new1.png">
 
 
 </p>
 
 
 
-# HubBrowser简介
-HubBrowser 是基于 [Chromium](https://dev.chromium.org) 的指纹浏览器，支持 Windows 7 及以上操作系统，并计划在未来支持 Mac、Android、Linux 等操作系统。
+# OKBrowser简介
+OKBrowser 是基于 [Chromium](https://dev.chromium.org) 的指纹浏览器，支持 Windows 7 及以上操作系统，并计划在未来支持 Mac、Android、Linux 等操作系统。
 
 浏览器指纹识别是指通过识别和记录浏览器本身、操作系统和硬件配置等各种因素，生成一个唯一的标识符的过程。它是通过收集浏览器的各种特征（如用户代理、语言、屏幕大小、插件版本、字体、时间设置等）和综合分析得出的数字签名。由于每个人的浏览器配置不同，所以可以使用浏览器指纹来跟踪用户行为、识别身份、监视在线活动，甚至用于非法目的，如欺诈和网络钓鱼。
 
@@ -27,10 +27,10 @@ HubBrowser 是基于 [Chromium](https://dev.chromium.org) 的指纹浏览器，�
 5. 支持云真机。
 
 # 准备工作
-首先，从[发布页面]()或[官网](http://HubBrowser.com)下载最新的 HubBrowser 安装包并将其安装到计算机上。
+首先，从[发布页面]()或[官网](http://OKBrow.com)下载最新的 OKBrowser 安装包并将其安装到计算机上。
 
 ## 创建新的浏览器环境
-1. 打开 HubBrowser 并选择“创建浏览器”。
+1. 打开 OKBrowser 并选择“创建浏览器”。
 ![image](https://github.com/user-attachments/assets/8e4b9d28-ade6-46b6-b505-a431e7b20ab9)
 
 
@@ -81,19 +81,19 @@ HubBrowser 是基于 [Chromium](https://dev.chromium.org) 的指纹浏览器，�
 - 硬件加速
 
 # 自动化
-HubBrowser基于Chromium开发，可以使用playwright或者其他chromium的自动化测试工具进行开发。
+OKBrowser基于Chromium开发，可以使用playwright或者其他chromium的自动化测试工具进行开发。
 
 # 支持和加入
-HubBrowser 还不完善。如果您对 HubBrowser 感兴趣，可以通过以下方式加入我们：
+OKBrowser 还不完善。如果您对 OKBrowser 感兴趣，可以通过以下方式加入我们：
 
 1. 直接贡献代码、提供功能和修复错误。
-2. 安装 HubBrowser，访问您经常使用的网站，并提供有关无法使用的情况的反馈，以帮助解
-3. 提供有关HubBrowser的反馈和建议，以帮助我们改进产品和增强用户体验。
-4. 在社交媒体上分享您对HubBrowser的看法和使用体验，并向其他人推荐该产品。
-5. 加入HubBrowser的开发者社区，与其他用户和开发人员进行交流和讨论。
+2. 安装 OKBrowser，访问您经常使用的网站，并提供有关无法使用的情况的反馈，以帮助解
+3. 提供有关OKBrowser的反馈和建议，以帮助我们改进产品和增强用户体验。
+4. 在社交媒体上分享您对OKBrowser的看法和使用体验，并向其他人推荐该产品。
+5. 加入OKBrowser的开发者社区，与其他用户和开发人员进行交流和讨论。
 
 # 免责声明
-本免责声明旨在明确指出，HubBrowser项目为技术交流、学习和研究之用，不得将本项目技术用于任何非法目的或破坏行为。作者对于任何使用本项目对他人或系统造成的损害概不负责。
+本免责声明旨在明确指出，OKBrowser项目为技术交流、学习和研究之用，不得将本项目技术用于任何非法目的或破坏行为。作者对于任何使用本项目对他人或系统造成的损害概不负责。
 
 使用本项目时，您必须明确并承诺，不会利用该技术来实施非法活动、侵犯他人的权益或对系统进行攻击。任何使用本项目中的技术所导致的任何意外、损失或损害，包括但不限于数据损失、财产损失、法律责任等问题，都与发表本项目的作者无关。
 
@@ -101,12 +101,13 @@ HubBrowser 还不完善。如果您对 HubBrowser 感兴趣，可以通过以下
 
 # 联系我们
 - email:  [xiao515217964@gmail.com]
-- 官网:  [https://HubBrowser.com](https://HubBrowser.com)
+- 官网:  [https://OKBrowser.com](https://OKBrow.com)
 - QQ群: 
 -  ![image](https://github.com/user-attachments/assets/895d6ab1-ac36-4490-a7a1-5b209fd81285)
 
-- 微信群：
-- ![微信图片_20241107004825](https://github.com/user-attachments/assets/048b6ff6-e973-4e24-bf49-b9af31fcff34)
+- 微信：
+- ![企业微信](https://github.com/user-attachments/assets/07b63842-92bd-40dc-aa38-aaf49fccf574)
+
 
 
 
