@@ -4,8 +4,10 @@
 
 </p>
 
-
-  # 注意：目前还是完全免费阶段！！不排除后续升级收费！！！
+  # 注意：目前还是完全免费阶段！！并且承诺对指纹窗口创建和启动永久免费！！！新版到官网进行下载使用！！！OKBrow.com
+  # 注意：目前还是完全免费阶段！！并且承诺对指纹窗口创建和启动永久免费！！！新版到官网进行下载使用！！！OKBrow.com
+  # 注意：目前还是完全免费阶段！！并且承诺对指纹窗口创建和启动永久免费！！！新版到官网进行下载使用！！！OKBrow.com
+  
 # OKBrowser简介
 OKBrowser 是基于 [Chromium](https://dev.chromium.org) 的指纹浏览器，支持 Windows 7 及以上操作系统，并计划在未来支持 Mac、Android、Linux 等操作系统。
 
@@ -18,13 +20,13 @@ OKBrowser 是基于 [Chromium](https://dev.chromium.org) 的指纹浏览器，�
 4. 支持私有化部署。
 5. 支持通过列表批量导入。
 6. 支持cookie获取及同步。
-7. 支持
+7. 支持API窗口管理。
+8. 支持批量拓展安装和使用。
+9. 支持后台用户管理详情。
+10. 支持用户支付订单查看。
 # 后续升级计划
-1. 支持后台用户管理详情。
-2. 支持API窗口管理。
-3. 支持用户支付订单查看。
-4. 支持安卓虚拟机。
-5. 支持云真机。
+1. 支持安卓虚拟机。
+2. 支持云真机。
 
 # 准备工作
 首先，从[发布页面]()或[官网](http://OKBrow.com)下载最新的 OKBrowser 安装包并将其安装到计算机上。
@@ -57,6 +59,11 @@ OKBrowser 是基于 [Chromium](https://dev.chromium.org) 的指纹浏览器，�
 3. 多线路切换海内海外节点
   ![image](https://github.com/user-attachments/assets/bf4bb5d5-4d48-4c5a-bec6-b14550e1ccc3)
 
+4. 批量拓展安装和使用
+   ![image](https://github.com/user-attachments/assets/6fee278f-54d6-4d38-9c23-6ff92507625e)
+
+5. API具备查询和启动关闭窗口能力
+   ![image](https://github.com/user-attachments/assets/de6eb549-8c12-449c-875e-f66e011efe59)
 
 # 亲测可用的指纹修改
 可以使用 [fingerprintjs](https://fingerprintjs.github.io/fingerprintjs/) 和 [browserleaks](https://browserleaks.com/) 来测试指纹修改效果。
