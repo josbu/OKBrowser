@@ -12,6 +12,27 @@
 
   3、🌟star到2000直接开源内核及控制台代码！大家可以多多支持下！！
 
+  # 广告位：
+  [OKKproxxy](https://okkproxy.com/)动态住宅代理IP/海外移动IP/静态住宅IP等均有，
+  <div style="border: 2px solid #f39c12; padding: 15px; background-color: #fffbe6; border-radius: 10px;">
+
+<details open>
+<summary><b>🌟 推荐工具：EasyChat - Claude官网镜像</b></summary>
+
+🔥 **EasyChat** 是一个无需注册和登录的 Claude 官网镜像，免费提供国内直登体验，1:1 还原官网功能，为你畅享高效的 AI 助手服务！
+
+- 🚀 **免注册体验**：开箱即用，完整还原官网功能，点击即可开始使用。
+- 🌐 **国内可访问**：无需科学上网，直连 Claude 官网服务。
+- 🤝 **共享会员**：支持使用 Claude 会员账号，无需担心封号风险。
+
+🔗 **访问网站**：[https://easychat.top](https://easychat.top)
+
+</details>
+  
+  2、🌟star到1000直接开源内核教程！大家可以多多支持下！！
+  兑现承诺地址：
+
+  3、🌟star到2000直接开源内核及控制台代码！大家可以多多支持下！！
   
 # OKBrowser简介
 OKBrowser 是基于 [Chromium](https://dev.chromium.org) 的指纹浏览器，支持 Windows 7 及以上操作系统，并计划在未来支持 Mac、Android、Linux 等操作系统。
