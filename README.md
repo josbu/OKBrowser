@@ -21,7 +21,7 @@
 
 🔥 **OKKproxxy** OKKproxxy拥有8000万个全球住宅IP，覆盖200个国家
 
-- 🚀 **免注册体验**：注册联系客服告知为OKBrowser用户即可获赠200M动态流量。
+- 🚀 **免注册体验**：注册联系客服告知为OKBrowser用户充值任意金额可以加赠送20%。
 - 🌐 **业务范围**：动态住宅代理IP/海外移动IP/静态住宅IP。
 - 🎀 **代理类型**：支持 HTTP(S）SOCKS5 代理。
 - 🎉 **适用业务**：适用于电子商务、社交媒体、多帐户、SEO。
@@ -30,7 +30,20 @@
 🔗 **访问网站**：[OKKproxxy](https://okkproxy.com/)
 
 </details>
-  
+<details open>
+<summary><b>🌟 推荐代理： [NIUproxxy](https://niuproxy.com/)</b></summary>
+
+🔥 **NIUproxxy** 专注于TK业务，目前对接多家TK运营直播团队
+
+- 🚀 **免注册体验**：注册联系客服告知为OKBrowser用户充值任意金额可以加赠送20%。
+- 🌐 **业务范围**：TK直播专线。
+- 🎀 **代理类型**：支持 HTTP(S）SOCKS5 代理。
+- 🎉 **适用业务**：适用于跨境电商、爬虫、多媒体。
+- 🤝 **成立时间**：5年。
+
+🔗 **访问网站**：[NIUproxxy](https://niuproxy.com/)
+
+</details>
   
 # OKBrowser简介
 OKBrowser 是基于 [Chromium](https://dev.chromium.org) 的指纹浏览器，支持 Windows 7 及以上操作系统，并计划在未来支持 Mac、Android、Linux 等操作系统。
