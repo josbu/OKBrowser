@@ -13,11 +13,11 @@
   3、🌟star到2000直接开源内核及控制台代码！大家可以多多支持下！！
 
   # 广告位：
-  [OKKproxxy](https://okkproxy.com/)动态住宅代理IP/海外移动IP/静态住宅IP等均有，
+  [OKKproxxy](https://okkproxy.com/?utm_source=git&utm_medium=okb&ref=ads)动态住宅代理IP/海外移动IP/静态住宅IP等均有，
   <div style="border: 2px solid #f39c12; padding: 15px; background-color: #fffbe6; border-radius: 10px;">
 
 <details open>
-<summary><b>🌟 推荐代理： [OKKproxxy](https://okkproxy.com/)</b></summary>
+<summary><b>🌟 推荐代理： [OKKproxxy](https://okkproxy.com/?utm_source=git&utm_medium=okb&ref=ads)</b></summary>
 
 🔥 **OKKproxxy** OKKproxxy拥有8000万个全球住宅IP，覆盖200个国家
 
@@ -27,11 +27,11 @@
 - 🎉 **适用业务**：适用于电子商务、社交媒体、多帐户、SEO。
 - 🤝 **成立时间**：3年。
 
-🔗 **访问网站**：[OKKproxxy](https://okkproxy.com/)
+🔗 **访问网站**：[OKKproxxy](https://okkproxy.com/?utm_source=git&utm_medium=okb&ref=ads)
 
 </details>
 <details open>
-<summary><b>🌟 推荐代理： [NIUproxxy](https://niuproxy.com/)</b></summary>
+<summary><b>🌟 推荐代理： [NIUproxxy](https://niuproxy.com/?utm_source=git&utm_medium=okb&ref=ads)</b></summary>
 
 🔥 **NIUproxxy** 专注于TK业务，目前对接多家TK运营直播团队
 
@@ -41,8 +41,22 @@
 - 🎉 **适用业务**：适用于跨境电商、爬虫、多媒体。
 - 🤝 **成立时间**：5年。
 
-🔗 **访问网站**：[NIUproxxy](https://niuproxy.com/)
+🔗 **访问网站**：[NIUproxxy](https://niuproxy.com/?utm_source=git&utm_medium=okb&ref=ads)
 
+
+</details>
+<details open>
+<summary><b>🌟 推荐代理： [COLAproxxy](https://colaproxy.com/?utm_source=git&utm_medium=okb&ref=ads)</b></summary>
+
+🔥 **NIUproxxy** 专注于TK业务，目前对接多家TK运营直播团队
+
+- 🚀 **免注册体验**：注册联系客服告知为OKBrowser用户充值任意金额可以加赠送20%。
+- 🌐 **业务范围**：TK直播专线。
+- 🎀 **代理类型**：支持 HTTP(S）SOCKS5 代理。
+- 🎉 **适用业务**：适用于跨境电商、爬虫、多媒体。
+- 🤝 **成立时间**：5年。
+
+🔗 **访问网站**：[NIUproxxy](https://colaproxy.com/?utm_source=git&utm_medium=okb&ref=ads)
 </details>
   
 # OKBrowser简介
